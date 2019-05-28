@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+.main .logo {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background: url(assets/logo.png);
+  background-size: 100% 100%;
+  transform: rotate(0.1turn);
+}
+
+.main .miniImg {
+  width: 100px;
+  height: 50px;
+  margin: 20px auto;
+  background: url(assets/mini.png);
+  background-size: 100% 100%;
+}
+
