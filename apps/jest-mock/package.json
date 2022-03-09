@@ -1,0 +1,30 @@
+{
+  "name": "jest-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "lodash": "~4.17.21",
+    "axios": "~0.26.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "~4.14.179",
+    "@types/axios": "~0.14.0",
+    "@types/jest": "^27.4.1",
+    "@types/node": "~17.0.21",
+    "@types/rewire": "~2.5.28",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "rewire": "~6.0.0",
+    "ts-node": "~10.7.0",
+    "typescript": "~4.6.2"
+  }
+}
