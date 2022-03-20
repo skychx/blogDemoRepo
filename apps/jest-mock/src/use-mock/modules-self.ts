@@ -1,4 +1,4 @@
-import { fib } from './fib';
+import { fib } from './cpu';
 
 export function sum(n: number) {
     const a = fib(n);
